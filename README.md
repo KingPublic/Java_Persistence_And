@@ -84,3 +84,5 @@ session.close() menutup sesi yang dibuka sebelumnya.
 Shutdown SessionFactory:
 
 Terakhir, program memanggil HibernateUtil.shutdown() untuk menutup SessionFactory dan melepaskan sumber daya yang terkait.
+
+# Project ini masih tahap dasar dan masih hard boot untuk memberi nilainya masih belum menginput 
